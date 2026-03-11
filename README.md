@@ -38,7 +38,7 @@ npm start
 
 ```
 ### 🎯 Project Structure
-```bash
+bash
 ---
 Expense-Tracker-React/
 │
