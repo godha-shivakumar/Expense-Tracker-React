@@ -36,8 +36,9 @@ cd Expense-Tracker-React
 npm install
 npm start
 ```
-### 🎯 Project Structure
 
+### 🎯 Project Structure
+````
 ```
 Expense-Tracker-React/
 │
@@ -71,8 +72,8 @@ Expense-Tracker-React/
 ├── tailwind.config.js            # Tailwind CSS configuration
 └── postcss.config.js
 ```
----
 
+````
 ### ⚖️ License 
 ```
 This project is licensed under the MIT License.
