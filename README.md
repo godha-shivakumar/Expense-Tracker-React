@@ -40,6 +40,7 @@ npm start
 ### 🎯 Project Structure
 
 ```
+
 Expense-Tracker-React/
 │
 ├── public/                       # Public assets like index.html, logos, manifest
@@ -71,7 +72,9 @@ Expense-Tracker-React/
 ├── package-lock.json
 ├── tailwind.config.js            # Tailwind CSS configuration
 └── postcss.config.js
+
 ````
+---
 ### ⚖️ License 
 ```
 This project is licensed under the MIT License.
