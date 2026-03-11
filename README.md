@@ -38,7 +38,7 @@ npm start
 ```
 
 ### 🎯 Project Structure
-````
+
 ```
 Expense-Tracker-React/
 │
@@ -71,7 +71,7 @@ Expense-Tracker-React/
 ├── package-lock.json
 ├── tailwind.config.js            # Tailwind CSS configuration
 └── postcss.config.js
-```
+
 
 ````
 ### ⚖️ License 
