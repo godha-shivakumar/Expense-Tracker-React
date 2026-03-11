@@ -1,33 +1,37 @@
 # Expense Tracker React
 
-A React-based expense tracker application that allows users to track their daily expenses with a clean and responsive interface.
+A **React-based expense tracker application** that allows users to track their daily expenses with a clean, responsive, and user-friendly interface.
+
+![Screenshot](link-to-your-screenshot.png)
+
+---
 
 ## Features
+- Add new expenses
+- Delete expenses
+- Category-based expense tracking
+- Running total calculation
+- Currency conversion using API
+- Data persistence with LocalStorage
+- Responsive UI using Tailwind CSS
 
-• Add new expenses  
-• Delete expenses  
-• Category-based expense tracking  
-• Running total calculation  
-• Currency conversion using API  
-• Data persistence with LocalStorage  
-• Responsive UI using Tailwind CSS
+---
 
 ## Tech Stack
+- **React** – Frontend framework  
+- **JavaScript** – Core programming language  
+- **Tailwind CSS** – Styling and responsive design  
+- **LocalStorage API** – Persistent storage  
+- **Currency Conversion API** – Live currency support  
 
-- React
-- JavaScript
-- Tailwind CSS
-- LocalStorage API
+---
 
 ## Installation
 
-1. Clone the repository
-2. Navigate to the project folder
-3. Install dependencies
+Clone the repository and install dependencies:
 
+```bash
+git clone https://github.com/godha-shivakumar/Expense-Tracker-React.git
+cd Expense-Tracker-React
 npm install
-
-4. Start the development server
-
 npm start
-
