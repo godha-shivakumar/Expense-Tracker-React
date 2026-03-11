@@ -38,8 +38,8 @@ npm start
 
 ```
 ### 🎯 Project Structure
-bash
----
+
+```
 Expense-Tracker-React/
 │
 ├── public/                     # Public assets like index.html, logos, manifest
