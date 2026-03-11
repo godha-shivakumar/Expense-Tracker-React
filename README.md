@@ -30,19 +30,19 @@ A **React-based expense tracker application** that allows users to track their d
 
 Clone the repository and install dependencies:
 
-```bash
+```
 git clone https://github.com/godha-shivakumar/Expense-Tracker-React.git
 cd Expense-Tracker-React
 npm install
 npm start
----
 
+```
 ### 🎯 Project Structure
 
 ```
 Expense-Tracker-React/
 │
-├── public/                     # Public assets like index.html, logos, manifest
+├── public/                       # Public assets like index.html, logos, manifest
 │   ├── favicon.ico
 │   ├── index.html
 │   ├── logo192.png
@@ -50,8 +50,8 @@ Expense-Tracker-React/
 │   ├── manifest.json
 │   └── robots.txt
 │
-├── src/                        # React source code
-│   ├── components/             # Reusable components
+├── src/                            # React source code
+│   ├── components/                 # Reusable components
 │   │   ├── CurrencyConverter.js
 │   │   ├── ExpenseForm.js
 │   │   ├── ExpenseItem.js
@@ -63,13 +63,13 @@ Expense-Tracker-React/
 │   ├── App.test.js
 │   ├── reportWebVitals.js
 │   └── setupTests.js
-│
-├── .gitignore                  # Git ignore rules
-├── LICENSE                     # MIT License
-├── README.md                   # Project documentation
-├── package.json                # NPM dependencies and scripts
+│ 
+├── .gitignore                    # Git ignore rules
+├── LICENSE                       # MIT License
+├── README.md                     # Project documentation
+├── package.json                  # NPM dependencies and scripts
 ├── package-lock.json
-├── tailwind.config.js          # Tailwind CSS configuration
+├── tailwind.config.js            # Tailwind CSS configuration
 └── postcss.config.js
 ```
 ---
