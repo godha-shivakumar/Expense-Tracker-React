@@ -35,7 +35,6 @@ git clone https://github.com/godha-shivakumar/Expense-Tracker-React.git
 cd Expense-Tracker-React
 npm install
 npm start
-
 ```
 ### 🎯 Project Structure
 
