@@ -36,7 +36,6 @@ cd Expense-Tracker-React
 npm install
 npm start
 
----
 ```
 ### 🎯 Project Structure
 ```bash
