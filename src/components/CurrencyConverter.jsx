@@ -9,7 +9,7 @@ function CurrencyConverter({ total }) {
   const [error, setError] = useState(false);
 
   useEffect(() => {
-    fetch("https://api.frankfurter.app/latest?from=USD")
+    fetch("https://api.frankfurter.dev/v1/latest?from=USD")
       .then((res) => res.json())
       .then((data) => {
         setRates(data.rates);
