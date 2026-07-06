@@ -3,7 +3,7 @@
 A **React-based expense tracker application** that allows users to track their daily expenses with a clean, responsive, and user-friendly interface.
 
 
-**Live URL:** https://mini-ecommerce-app-vm89.vercel.app/
+**Live URL:** https://expense-tracker-delta-eight-86.vercel.app/
 
 
 ---
